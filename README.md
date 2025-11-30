@@ -88,9 +88,6 @@ If it runs on the web — or can be debugged, optimized, or automated — I'm pr
 ### 🔥 Contribution Streak  
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kishansuvarna09&theme=dark&hide_border=false)](https://github.com/kishansuvarna09)
 
-### ⚡ Activity Overview  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishansuvarna09&theme=dark&hide_border=false&count_private=false)](https://github.com/kishansuvarna09)
-
 ### 🧠 Top Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishansuvarna09&theme=dark&hide_border=false&layout=compact)](https://github.com/kishansuvarna09)
 
