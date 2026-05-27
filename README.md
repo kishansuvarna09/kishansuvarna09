@@ -1,10 +1,6 @@
 <!-- Hero Banner -->
 <h1 align="center">Hi 👋 I'm Kishan</h1>
-<h3 align="center">Senior Frontend Engineer • Backend Dabbler • AI/LLM Explorer</h3>
-
-<p align="center">
-  <i>Building scalable UIs, intelligent systems, and occasionally unreasonable side projects.</i>
-</p>
+<h3 align="center">Frontend Developer • Backend Dabbler • AI/LLM Explorer</h3>
 
 ---
 
@@ -49,6 +45,7 @@ If it runs on the web — or can be debugged, optimized, or automated — I'm pr
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff" />
 </p>
 
 #### Cloud & Deployment Platforms
@@ -78,20 +75,6 @@ If it runs on the web — or can be debugged, optimized, or automated — I'm pr
 - Beer 🍺 makes me brave enough to refactor legacy code  
 - I build side projects no one asked for   
 - I think LLMs are the best interns I’ve ever had  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-### 🔥 Contribution Streak  
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kishansuvarna09&theme=dark&hide_border=false)](https://github.com/kishansuvarna09)
-
-### 🧠 Top Languages  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishansuvarna09&theme=dark&hide_border=false&layout=compact)](https://github.com/kishansuvarna09)
-
-</div>
 
 ---
 
